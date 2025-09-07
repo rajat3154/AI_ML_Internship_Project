@@ -70,6 +70,7 @@ st.markdown("""
     }
     .career-card {
         background-color: white;
+        color:black;
         border-radius: 10px;
         padding: 15px;
         margin: 10px 0;
