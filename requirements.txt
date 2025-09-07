@@ -1,0 +1,9 @@
+streamlit
+rasa
+nltk
+pandas
+plotly
+spacy
+python-dotenv
+textblob
+scikit-learn
